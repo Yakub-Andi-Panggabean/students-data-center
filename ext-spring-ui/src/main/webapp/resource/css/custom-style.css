@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+.panel-header{
+	background-color: #424F4C;
+	height: 80px;
+}
+
+#app-title{
+	color:white;
+	padding-top:10px;
+	padding-left:10px;
+	font-size: 30px;
+}
